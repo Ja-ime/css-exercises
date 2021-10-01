@@ -1,7 +1,7 @@
 # CSS Exercises
 
 ## Jaime Solution Links 
-[foundations](foundations/01-css-methods/index.html)
+[foundations 01-css-methods](foundations/01-css-methods/index.html)
 
 These exercises are a series of css related tasks intended to complement the HTML and CSS content on The Odin Project.
 
