@@ -9,9 +9,10 @@
 2. Practice linking style sheets 
 
 <br>
-This is all about practicing using these different methods and getting the syntax right.
 
----
+_This is all about practicing using these different methods and getting the syntax right_
+
+
 ## To do: 
 1. Style each element according to the method described in the image (see image). 
 2. Create a CSS file and link it in the HTML file 
