@@ -1,7 +1,18 @@
 # CSS Exercises
 
-## Jaime Solution Links 
-[foundations 01-css-methods](foundations/01-css-methods/index.html)
+<br>
+
+
+### Soultions Directory
+__*Foundations:*__ 
+
+- [01-css-methods](foundations/01-css-methods/index.html)
+- [02-class-id-selectors](foundations/02-class-id-selectors/index.html)
+- [03-grouping-selectors](foundations/03-grouping-selectors/index.html)
+- [04-chaining-selectors](foundations/04-chaining-selectors/index.html)
+- [05-descendant-combinator](foundations/05-descendant-combinator/index.html)   
+
+
 
 These exercises are a series of css related tasks intended to complement the HTML and CSS content on The Odin Project.
 
