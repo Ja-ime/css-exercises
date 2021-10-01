@@ -1,0 +1,19 @@
+.odd_number {
+    background-color: lightpink;
+    font-family: Verdana, sans-serif;
+}
+
+.and_cooler {
+    font-size: 24px;
+}
+
+#number_2 {
+    color: blue;
+    font-size: 36;
+}
+
+#number_4 {
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;  
+}
