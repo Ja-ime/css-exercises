@@ -6,7 +6,7 @@
 
 <br>
 
-_In the last challenge, you took a single element and applied multiple classes to it. In this challenge each element will have a unique class and style, but will also have styles in common. 
+_In the last challenge, you took a single element and applied multiple classes to it. In this challenge each element will have a unique class and style, but will also have styles in common._  
 
 <br>
 
