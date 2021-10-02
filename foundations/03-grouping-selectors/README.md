@@ -6,14 +6,15 @@
 
 <br>
 
-_In the last challenge, you had a single element and applied different rules (multiple classes) to it. In this challenge you will give two elements each a unique class name, then add rules for styles that both elements share as well as their own unique styles._ 
+_In the last challenge, you took a single element and applied multiple classes to it. In this challenge each element will have a unique class and style, but will also have styles in common. 
 
 <br>
 
+
 ## To Do 
 1. Give each element a unqiue class name 
-2. Add rules and styles that both elements share (as well as their own unique styles)
-3. Attribute the class elements to the HTML file. 
+2. Apply the properties to each element as seen in the image 
+3. Use grouping to add shared rules to each class
 
 <br>
 
