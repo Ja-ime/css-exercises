@@ -1,10 +1,24 @@
 # Grouping Selectors
 
-Let's build a little off the previous exercise, where you (hopefully) added multiple classes to a single element in order to apply two different rules to it.
+## Objective 
+1. Learn to create elements that have both unique and shared styles 
+2. Practice adding classes and using class selectors 
 
-Instead of having a single element with two different rules applied, though, you're instead going to give two elements each a unique class name, then add rules for styles that both elements share as well as their own unique styles. Make sure you take a good look at the outcome image below to see exactly what is unique about each element, and what both elements have in common.
+<br>
 
-This will help you further practice adding classes and using class selectors, so be sure you add the class attribute in the HTML file. For the remainder of these exercises, the format of any colors is entirely up to you, we trust you'll practice using the different values! The properties you need to add to each element are:
+_In the last challenge, you had a single element and applied different rules (multiple classes) to it. In this challenge you will give two elements each a unique class name, then add rules for styles that both elements share as well as their own unique styles._ 
+
+<br>
+
+## To Do 
+1. Give each element a unqiue class name 
+2. Add rules and styles that both elements share (as well as their own unique styles)
+3. Attribute the class elements to the HTML file. 
+
+<br>
+
+__Requirements__ 
+Take a good look at the outcome image below to see exactly what is unique about each element, and what both elements have in common. The format of any colors is entirely up to you, we trust you'll practice using the different values! The properties you need to add to each element are:
 
 * **The first element**: a black background and white text
 * **The second element**: a yellow background
