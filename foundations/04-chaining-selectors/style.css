@@ -1,17 +1,14 @@
 
-avatar.proportioned {
+.avatar.proportioned {
     /* Make 300 px wide and give height so it retains original square proportions don't hardcode in a pixel value for the height!)*/
     height: auto;
     width: 300px;
 }
 
-avatar.distorted {
+.avatar.distorted {
     /*Make 200 pixels wide, and height twice as big as its width (here you should hardcode in a pixel value)*/
     width: 200px;
-    height: 150px;
+    height: 400px;
 }
 
-
-.test-class {
-    color: red;
-}
+ 
