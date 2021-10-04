@@ -13,6 +13,21 @@ __*Foundations:*__
 - [05-descendant-combinator](foundations/05-descendant-combinator/index.html)   
 - [06-css-exercises](foundations/06-cascade-fix/index.html)
 
+__*Margin and Padding*__ 
+- [01-Margin-and-padding](margin-and-padding/margin-and-padding-1/index.html)   
+- [02-Margin-and-padding](margin-and-padding/margin-and-padding-2/index.html)  
+
+__*Flex*__ 
+- [01-flex-center](flex/01-flex-center/index.html)
+- [02-flex-header](flex/02-flex-header/index.html)
+- [03-flex-header-2](flex/03-flex-header-2/index.html)
+- [04-flex-information](flex/04-flex-information/index.html)
+- [05-flex-modal](flex/05-flex-modal/index.html)
+- [06-flex-layout](flex/06-flex-layout/index.html)
+- [07-flex-layout-2](flex/07-flex-layout-2/index.html)
+
+
+
 
 These exercises are a series of css related tasks intended to complement the HTML and CSS content on The Odin Project.
 
