@@ -11,7 +11,7 @@ __*Foundations:*__
 - [03-grouping-selectors](foundations/03-grouping-selectors/index.html)
 - [04-chaining-selectors](foundations/04-chaining-selectors/index.html)
 - [05-descendant-combinator](foundations/05-descendant-combinator/index.html)   
-
+- [06-css-exercises](foundations/06-cascade-fix/index.html)
 
 
 These exercises are a series of css related tasks intended to complement the HTML and CSS content on The Odin Project.
